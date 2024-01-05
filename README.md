@@ -1,4 +1,4 @@
-# Bun, Hono, OpenAPI
+# Bun, Hono, Zod, OpenAPI
 
 ```
 bun install
