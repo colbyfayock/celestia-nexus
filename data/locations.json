@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Astra Prime",
+    "description": "Lush planetary oasis",
+    "terrain_type": "Forest",
+    "climate": "Tropical",
+    "population": "8 million"
+  },
+  {
+    "id": "2",
+    "name": "Nebula Nexus",
+    "description": "Cosmic crossroads",
+    "terrain_type": "Space station",
+    "climate": "Controlled",
+    "population": "Diverse"
+  },
+  {
+    "id": "3",
+    "name": "Zeta 9",
+    "description": "Deserted moon",
+    "terrain_type": "Barren",
+    "climate": "Harsh",
+    "population": "None"
+  }
+]

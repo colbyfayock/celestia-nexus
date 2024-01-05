@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Humanoids",
+    "homeworld": "1",
+    "classification": "Sentient",
+    "designation": "Bipedal",
+    "language": "Terran"
+  },
+  {
+    "id": "2",
+    "name": "Cryslithians",
+    "homeworld": "2",
+    "classification": "Crystal-based",
+    "designation": "Geometric",
+    "language": "Crystalline"
+  },
+  {
+    "id": "3",
+    "name": "Xyloids",
+    "homeworld": "3",
+    "classification": "Plant-based",
+    "designation": "Arboreal",
+    "language": "Photosynthetic"
+  }
+]

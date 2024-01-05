@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "name": "Captain Alex Mercer",
+    "location": "1",
+    "species": "1",
+    "height": "1.8 meters",
+    "weight": "75 kilograms",
+    "skin_color": "Tan",
+    "hair_color": "Brown",
+    "birth_year": "2230"
+  },
+  {
+    "id": "2",
+    "name": "Lumina Shard",
+    "location": "2",
+    "species": "2",
+    "height": "2.2 meters",
+    "weight": "90 kilograms",
+    "skin_color": "Translucent",
+    "hair_color": "None",
+    "birth_year": "2155"
+  },
+  {
+    "id": "3",
+    "name": "Zara Greenleaf",
+    "location": "3",
+    "species": "3",
+    "height": "1.5 meters",
+    "weight": "60 kilograms",
+    "skin_color": "Green",
+    "hair_color": "Leafy",
+    "birth_year": "2200"
+  },
+  {
+    "id": "4",
+    "name": "Commander Drax Kell",
+    "location": "1",
+    "species": "1",
+    "height": "2.0 meters",
+    "weight": "85 kilograms",
+    "skin_color": "Pale",
+    "hair_color": "Silver",
+    "birth_year": "2185"
+  },
+  {
+    "id": "5",
+    "name": "Selenis Crystalheart",
+    "location": "2",
+    "species": "2",
+    "height": "1.7 meters",
+    "weight": "70 kilograms",
+    "skin_color": "Iridescent",
+    "hair_color": "Radiant",
+    "birth_year": "2160"
+  },
+  {
+    "id": "6",
+    "name": "Barkley Greenroot",
+    "location": "3",
+    "species": "3",
+    "height": "1.8 meters",
+    "weight": "80 kilograms",
+    "skin_color": "Brown",
+    "hair_color": "Bark-like",
+    "birth_year": "2190"
+  },
+  {
+    "id": "7",
+    "name": "Captain Kyra Nova",
+    "location": "1",
+    "species": "1",
+    "height": "2.1 meters",
+    "weight": "95 kilograms",
+    "skin_color": "Blue",
+    "hair_color": "Black",
+    "birth_year": "2220"
+  },
+  {
+    "id": "8",
+    "name": "Prismara Celestia",
+    "location": "2",
+    "species": "2",
+    "height": "1.6 meters",
+    "weight": "65 kilograms",
+    "skin_color": "Prismatic",
+    "hair_color": "Glowing",
+    "birth_year": "2175"
+  },
+  {
+    "id": "9",
+    "name": "Thorn Willowshade",
+    "location": "3",
+    "species": "3",
+    "height": "1.9 meters",
+    "weight": "75 kilograms",
+    "skin_color": "Vine-like",
+    "hair_color": "Green",
+    "birth_year": "2215"
+  },
+  {
+    "id": "10",
+    "name": "Admiral Orion Steele",
+    "location": "1",
+    "species": "1",
+    "height": "2.3 meters",
+    "weight": "100 kilograms",
+    "skin_color": "Bronze",
+    "hair_color": "White",
+    "birth_year": "2240"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "@hono/zod-openapi": "^0.9.5",
+    "hono": "^3.11.12"
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.7"
+  }
+}
